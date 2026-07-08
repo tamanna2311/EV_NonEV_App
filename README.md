@@ -1,8 +1,14 @@
 # EV vs Non-EV Detector
 
+
+Live App: [Open EV Non-EV Detector](https://ev-nonev-app.onrender.com)
+
+This project detects whether a vehicle is EV-like or Non-EV-like using accelerometer data.
+
 Streamlit app for classifying accelerometer recordings as EV-like or Non-EV-like.
 
-## Streamlit Community Cloud deployment
+
+ ## Render Deployment
 
 Use these settings when creating the app:
 
